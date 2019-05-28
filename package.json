@@ -2,9 +2,9 @@
   "name": "30js",
   "version": "1.0.0",
   "description": "30js",
-  "main": "twentyday.html",
+  "main": "twentyoneday.html",
   "scripts": {
-    "start": "twentyday.html",
+    "start": "twentyoneday.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
